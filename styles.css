@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+
+    .info {
+        display: flex;
+        flex-direction: column;
+
+        .info-title p {
+            font-family: 'Nunito', sans-serif;
+            font-weight: 900;
+            font-size: 70px;
+            margin: 0;
+        }
+    }
+
+    .image img {
+        width: 250px;
+        height: 250px;
+    }
+}
