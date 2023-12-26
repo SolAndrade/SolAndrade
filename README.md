@@ -8,7 +8,7 @@
     <div style="display: flex; justify-content: space-between; padding: 100px;">
         <div style="display:flex; flex-direction: column">
             <section class="info-title">
-                <p style="font-family: 'Nunito', sans-serif;">hello,</p>
+                <p style="color:red">hello,</p>
                 <p class="info-title-name">I'm Sol.</p>
             </section>
             <section class="info-role">
