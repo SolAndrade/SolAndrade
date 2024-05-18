@@ -1,6 +1,6 @@
 # hello, I'm Sol.
 
-## I'm a frontEnd developer and graphic designer
+## I'm a full-stack developer and graphic designer
 
 ### `Languages`
 ![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
